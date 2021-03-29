@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Una Introduccion a la Teoria de la Mente"
+author: "Daniel Perez Zapata"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
