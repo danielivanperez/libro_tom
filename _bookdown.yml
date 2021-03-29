@@ -5,4 +5,4 @@ edit: https://github.com/danielivanperez/libro_tom/edit/master/%s
 view: https://github.com/danielivanperez/libro_tom/blob/master/%s
 language:
   ui:
-    chapter_name: "Chapter "
+    chapter_name: "Capítulo "
