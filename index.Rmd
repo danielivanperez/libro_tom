@@ -8,4 +8,4 @@ site: bookdown::bookdown_site
 # Licencia {-}
 
 Este libro está publicado bajo una licencia de Creative Commons BY-SA license (CC BY-SA) version 4.0.
-Esto significa que este libro puede ser reutilizado, combinado, retenido, revisado y redistribuido (incluyendo su comercialización) siempre y cuando el crédito apropiado sea dado al autor. Si combinas, o modificas la version original de este texto abierto, debes redistribuir todas las versiones de este texto abierto bajo la misma licencia - CC BY-SA. https://creativecommons.org/licenses/by-sa/4.0/.
+Esto significa que este libro puede ser reutilizado, combinado, retenido, revisado y redistribuido (incluyendo su comercialización) siempre y cuando el crédito apropiado sea dado al autor. Si se combina, o modifica la version original de este texto abierto, debes redistribuir todas las versiones de este texto abierto bajo la misma licencia - CC BY-SA. https://creativecommons.org/licenses/by-sa/4.0/.
