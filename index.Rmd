@@ -10,7 +10,7 @@ site: bookdown::bookdown_site
 # Presentación y Licencia {-}
 
 ## Presentación 
-Este libro online tiene como principal objetivo introducir y acercar la literatura científica sobre la Teoría de la Mente (ToM) a las y los lectores de habla hispana de manera accesible. Se presentan estudios clásicos que dieron origen a esta línea de estudio, además de presentar resultados de estudios actualizados y trazar relaciones con otras vetas de investigación al interior de la psicología y también mas allá de sus fronteras disciplinares. Si bien este recurso está escrito para lectores con diferentes niveles de conocimiento sobre el tema, también puede ser cómodamente utilizado (y ajustado) para cursos sobre psicología del desarrollo, psicología cognitiva, cognición social o cursos introductorios a la psicología. 
+Este libro online tiene como principal objetivo introducir y acercar la literatura científica sobre la Teoría de la Mente (ToM) a las y los lectores de habla hispana de manera accesible. Se presentan estudios clásicos que dieron origen a esta línea de estudio, además de presentar resultados de estudios actualizados y trazar relaciones con otras vetas de investigación al interior de la psicología y también mas allá de sus fronteras disciplinares. Si bien este recurso está escrito para lectores con poco conocimiento sobre el tema, también puede ser cómodamente utilizado (y ajustado) para cursos sobre psicología del desarrollo, psicología cognitiva, cognición social o cursos introductorios a la psicología. 
 
 
 ## Licencia {-}
